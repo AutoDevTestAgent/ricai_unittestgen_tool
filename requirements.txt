@@ -1,0 +1,10 @@
+pydantic==1.10.8
+pytest==7.3.1
+pytest-mock==3.11.1
+requests==2.31.0
+superagi-tools==1.0.6
+tiktoken==0.4.0
+typing_extensions==4.7.1
+urllib3==1.26.16
+openai==0.27.8
+gpt-engineer==0.0.8
